@@ -24,7 +24,6 @@
 Projeto simples feito para praticar os conhecimentos adquiridos de Bootstrap 5, totalmente responsivo (mobile-first).
 <br>
 <br>
-#### Feito com ❤️ por Isabel Sant' Ana 👋🏽
+#### Feito com ❤️ por <a href="https://www.linkedin.com/in/isabelsantana2811/">Isabel Sant' Ana</a> 👋🏽
 
-[![Linkedin Badge](https://img.shields.io/badge/-Isabel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelsantana2811/)](www.linkedin.com/in/isabelsantana2811/)
-[![Gmail Badge](https://img.shields.io/badge/-isabelsantana2811@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelsantana2811@gmail.com)](mailto:isabelsantana2811@gmail.com) 
+  [![Gmail Badge](https://img.shields.io/badge/-isabelsantana2811@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabelsantana2811@gmail.com)](mailto:isabelsantana2811@gmail.com) 
